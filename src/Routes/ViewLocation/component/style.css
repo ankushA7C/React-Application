@@ -1,0 +1,23 @@
+
+div[class^="Component-horizontalScrollContainer"] {
+    height: 400px;
+  }
+ div[class^="Component-horizontalScrollContainer"] >div >div {
+    overflow-y: unset !important;
+  } 
+tbody{
+    overflow-y: scroll;
+    scrollbar-width: none; /* Firefox */
+    -ms-overflow-style: none;  /* Internet Explorer 10+ */
+}
+tbody::-webkit-scrollbar { /* WebKit */
+    width: 0;
+    height: 0;
+}
+
+.noLocation{
+    text-align: center;
+}
+.noLocation-img{
+    height: 300px;
+}

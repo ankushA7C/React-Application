@@ -1,0 +1,160 @@
+.form-container{
+    height: auto;
+    width: 500px;
+    background-color: white;
+    box-shadow: 0px 2px 10px 1px #dcd7d7;
+    margin: auto;
+}
+.locationForm{
+    padding: 15px;
+}
+.buttons{
+    float: right;
+    display: inline-flex;
+}
+.margin-5{
+    margin: 5px;
+}
+.f-z{
+    font-size: 12px;
+}
+
+.timeZone-width{
+    width: 200px;
+}
+
+.facility-Container{
+    height: 370px;
+    width: 500px;
+}
+
+.WAMuiChipInput-chipContainer-6.WAMuiChipInput-labeled-10.WAMuiChipInput-chipContainer-6.WAMuiChipInput-standard-8{
+    margin-top: 10px !important;
+}
+
+div[class^="WAMuiChipInput"]{
+overflow-x: auto;   
+  }
+
+.MuiTypography-h6{
+    font-size: 15px !important;
+font-weight: 600 !important;
+    color: #2d608c !important;
+}
+
+
+.facility-row{
+    height: 100%;
+    width: 100%;
+    margin: 0px;
+}
+
+
+#appPool{
+    width: 220px;
+}
+.table-row{
+    display: flex;
+}
+.margin-25{
+    margin: 25px 0px;
+}
+
+.day-Column{
+    display: flex;
+    height: 25px;
+    width: 70px;
+}
+.from-Date{
+    display: flex;
+    width: 160px;
+    height: 25px;
+}
+#fromDate{
+    font-size: 14px;
+    width: 60px;
+    height: 25px;
+}
+.fromDate{
+    font-size: 14px;
+    width: 60px;
+    height: 25px;
+}
+.from-Date-img{
+   display: flex;
+    height: 25px;
+    width: 70px;
+    margin: 0px 5px;
+}
+.to-Date{
+    height: 25px;
+    width: 160px;
+    display: flex;
+}
+#toDate{
+    font-size: 14px;
+    width: 60px;
+    height: 25px;
+}
+.toDate{
+    font-size: 14px;
+    width: 60px;
+    height: 25px;
+}
+.to-Date-img{
+    width: 70px;
+    height: 25px;
+    display: flex;
+    margin: 0px 5px;
+}
+.apply-btn{
+    height: 25px;
+}
+.button-Apply{
+        padding: 4px;
+        height: 25px;
+        font-size: 10px;
+        width: 100%;
+        border: 1px solid #2d608c;
+        border-radius: 5px;
+        cursor: pointer;
+        color: #2d608c;
+}
+
+.bgc-blue{
+    color: white;
+    background: #2d608c;
+}
+.bgc-grey{
+    color: black;
+    background: #e4e4e4;
+}
+.am-Time{
+    cursor: pointer;
+    padding: 2px 5px;
+    border-radius: 5px 0px 0px 5px;
+    width: 50%;
+    font-size: 13px;
+}
+
+.pm-Time{
+    cursor: pointer;
+    border-radius: 0px 5px 5px 0px;
+    width: 50%;
+    padding: 2px 5px;
+    font-size: 13px;
+}
+.dayName{
+    font-size: 14px;
+    margin: 1px 5px;
+}
+.checkBox-Day{
+    height: 16px;
+    width: 20px;
+    margin: 4px 0px;
+}
+
+.header-table{
+    font-size: 14px;
+    font-weight: 600;
+}
