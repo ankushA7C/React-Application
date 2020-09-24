@@ -1,0 +1,23 @@
+{
+  "files": {
+    "main.css": "/React-Application/static/css/main.9d26782c.chunk.css",
+    "main.js": "/React-Application/static/js/main.370ce780.chunk.js",
+    "main.js.map": "/React-Application/static/js/main.370ce780.chunk.js.map",
+    "runtime-main.js": "/React-Application/static/js/runtime-main.002641a6.js",
+    "runtime-main.js.map": "/React-Application/static/js/runtime-main.002641a6.js.map",
+    "static/js/2.38f76c7b.chunk.js": "/React-Application/static/js/2.38f76c7b.chunk.js",
+    "static/js/2.38f76c7b.chunk.js.map": "/React-Application/static/js/2.38f76c7b.chunk.js.map",
+    "index.html": "/React-Application/index.html",
+    "precache-manifest.7d0423d27be347d92920d87fc318c975.js": "/React-Application/precache-manifest.7d0423d27be347d92920d87fc318c975.js",
+    "service-worker.js": "/React-Application/service-worker.js",
+    "static/css/main.9d26782c.chunk.css.map": "/React-Application/static/css/main.9d26782c.chunk.css.map",
+    "static/js/2.38f76c7b.chunk.js.LICENSE.txt": "/React-Application/static/js/2.38f76c7b.chunk.js.LICENSE.txt",
+    "static/media/noLocation.png": "/React-Application/static/media/noLocation.ea3e66a1.png"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.002641a6.js",
+    "static/js/2.38f76c7b.chunk.js",
+    "static/css/main.9d26782c.chunk.css",
+    "static/js/main.370ce780.chunk.js"
+  ]
+}
